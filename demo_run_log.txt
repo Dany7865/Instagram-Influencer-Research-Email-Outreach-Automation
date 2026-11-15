@@ -1,0 +1,353 @@
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+research: {'candidates': 12, 'added': 10, 'duplicates': 1, 'out_of_range': 1, 'not_found': 0}
+
+CRM summary: {'New Lead': 1, 'Email Available': 9}
+username             score status          stage  reply                 approval 
+glow.with.ananya         - Email Available     -  -                     -        
+dermdost.priya           - Email Available     -  -                     -        
+organic.living.meer      - Email Available     -  -                     -        
+skinlab.neha             - New Lead            -  -                     -        
+selfcare.sunday.ish      - Email Available     -  -                     -        
+the.selfcare.diarie      - Email Available     -  -                     -        
+makeup.by.simran         - Email Available     -  -                     -        
+fitwithkabir             - Email Available     -  -                     -        
+techbyrohan              - Email Available     -  -                     -        
+travelwithzoya           - Email Available     -  -                     -        
+emails sent today: 0/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+scored 10 influencers
+
+CRM summary: {'New Lead': 1, 'Email Available': 9}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Email Available     -  -                     -        
+organic.living.meer     97 Email Available     -  -                     -        
+selfcare.sunday.ish     97 Email Available     -  -                     -        
+the.selfcare.diarie     97 Email Available     -  -                     -        
+makeup.by.simran        78 Email Available     -  -                     -        
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 0/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+drafted 5 emails (status: pending approval)
+
+CRM summary: {'New Lead': 1, 'Email Available': 9}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Email Available     -  -                     pending  
+organic.living.meer     97 Email Available     -  -                     pending  
+selfcare.sunday.ish     97 Email Available     -  -                     pending  
+the.selfcare.diarie     97 Email Available     -  -                     pending  
+makeup.by.simran        78 Email Available     -  -                     pending  
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 0/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+
+======================================================================
+@glow.with.ananya  <ananya.glow@example.com>  score=97  status=Email Available
+Why selected: Ananya's skincare content overlaps with our skincare range
+Subject: Collaboration idea for Ananya x GlowLeaf Organics
+----------------------------------------------------------------------
+Hi Ananya,
+
+I'm Danyal Ali from GlowLeaf Organics. GlowLeaf Organics is an Indian clean-beauty brand making vegan, cruelty-free skincare with plant-based ingredients.
+
+I came across your page (@glow.with.ananya). Ananya's skincare content overlaps with our skincare range. We are launching our Winter Glow campaign and would love to send you a free product kit to try, with a paid collaboration and affiliate code if you enjoy it.
+
+Would you be open to a quick chat or to hearing more details? Just reply "yes" and I'll send over the brief.
+
+Thanks for your time,
+Danyal Ali
+
+--
+Danyal Ali, Influencer Partnerships
+GlowLeaf Organics
+GlowLeaf Organics, 12 Example Street, Noida, UP 201301, India
+partnerships@example.com
+
+You are receiving this one-time collaboration enquiry because a business email is listed publicly on your Instagram profile. If you would rather not hear from us, reply "unsubscribe" and we will not contact you again.
+  approved
+
+======================================================================
+@organic.living.meera  <meera@organicliving.example.com>  score=97  status=Email Available
+Why selected: Meera's clean living content overlaps with our skincare range
+Subject: Collaboration idea for Meera x GlowLeaf Organics
+----------------------------------------------------------------------
+Hi Meera,
+
+I'm Danyal Ali from GlowLeaf Organics. GlowLeaf Organics is an Indian clean-beauty brand making vegan, cruelty-free skincare with plant-based ingredients.
+
+I came across your page (@organic.living.meera). Meera's clean living content overlaps with our skincare range. We are launching our Winter Glow campaign and would love to send you a free product kit to try, with a paid collaboration and affiliate code if you enjoy it.
+
+Would you be open to a quick chat or to hearing more details? Just reply "yes" and I'll send over the brief.
+
+Thanks for your time,
+Danyal Ali
+
+--
+Danyal Ali, Influencer Partnerships
+GlowLeaf Organics
+GlowLeaf Organics, 12 Example Street, Noida, UP 201301, India
+partnerships@example.com
+
+You are receiving this one-time collaboration enquiry because a business email is listed publicly on your Instagram profile. If you would rather not hear from us, reply "unsubscribe" and we will not contact you again.
+  approved
+
+======================================================================
+@selfcare.sunday.isha  <isha@sundayselfcare.example.com>  score=97  status=Email Available
+Why selected: Isha's wellness content overlaps with our skincare range
+Subject: Collaboration idea for Isha x GlowLeaf Organics
+----------------------------------------------------------------------
+Hi Isha,
+
+I'm Danyal Ali from GlowLeaf Organics. GlowLeaf Organics is an Indian clean-beauty brand making vegan, cruelty-free skincare with plant-based ingredients.
+
+I came across your page (@selfcare.sunday.isha). Isha's wellness content overlaps with our skincare range. We are launching our Winter Glow campaign and would love to send you a free product kit to try, with a paid collaboration and affiliate code if you enjoy it.
+
+Would you be open to a quick chat or to hearing more details? Just reply "yes" and I'll send over the brief.
+
+Thanks for your time,
+Danyal Ali
+
+--
+Danyal Ali, Influencer Partnerships
+GlowLeaf Organics
+GlowLeaf Organics, 12 Example Street, Noida, UP 201301, India
+partnerships@example.com
+
+You are receiving this one-time collaboration enquiry because a business email is listed publicly on your Instagram profile. If you would rather not hear from us, reply "unsubscribe" and we will not contact you again.
+  approved
+
+======================================================================
+@the.selfcare.diaries  <riya@selfcarediaries.example.com>  score=97  status=Email Available
+Why selected: Riya's wellness content overlaps with our skincare range
+Subject: Collaboration idea for Riya x GlowLeaf Organics
+----------------------------------------------------------------------
+Hi Riya,
+
+I'm Danyal Ali from GlowLeaf Organics. GlowLeaf Organics is an Indian clean-beauty brand making vegan, cruelty-free skincare with plant-based ingredients.
+
+I came across your page (@the.selfcare.diaries). Riya's wellness content overlaps with our skincare range. We are launching our Winter Glow campaign and would love to send you a free product kit to try, with a paid collaboration and affiliate code if you enjoy it.
+
+Would you be open to a quick chat or to hearing more details? Just reply "yes" and I'll send over the brief.
+
+Thanks for your time,
+Danyal Ali
+
+--
+Danyal Ali, Influencer Partnerships
+GlowLeaf Organics
+GlowLeaf Organics, 12 Example Street, Noida, UP 201301, India
+partnerships@example.com
+
+You are receiving this one-time collaboration enquiry because a business email is listed publicly on your Instagram profile. If you would rather not hear from us, reply "unsubscribe" and we will not contact you again.
+  approved
+
+======================================================================
+@makeup.by.simran  <simran.mua@example.com>  score=78  status=Email Available
+Why selected: Simran's beauty content overlaps with our skincare range
+Subject: Collaboration idea for Simran x GlowLeaf Organics
+----------------------------------------------------------------------
+Hi Simran,
+
+I'm Danyal Ali from GlowLeaf Organics. GlowLeaf Organics is an Indian clean-beauty brand making vegan, cruelty-free skincare with plant-based ingredients.
+
+I came across your page (@makeup.by.simran). Simran's beauty content overlaps with our skincare range. We are launching our Winter Glow campaign and would love to send you a free product kit to try, with a paid collaboration and affiliate code if you enjoy it.
+
+Would you be open to a quick chat or to hearing more details? Just reply "yes" and I'll send over the brief.
+
+Thanks for your time,
+Danyal Ali
+
+--
+Danyal Ali, Influencer Partnerships
+GlowLeaf Organics
+GlowLeaf Organics, 12 Example Street, Noida, UP 201301, India
+partnerships@example.com
+
+You are receiving this one-time collaboration enquiry because a business email is listed publicly on your Instagram profile. If you would rather not hear from us, reply "unsubscribe" and we will not contact you again.
+  approved
+
+CRM summary: {'New Lead': 1, 'Email Available': 9}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Email Available     -  -                     approved 
+organic.living.meer     97 Email Available     -  -                     approved 
+selfcare.sunday.ish     97 Email Available     -  -                     approved 
+the.selfcare.diarie     97 Email Available     -  -                     approved 
+makeup.by.simran        78 Email Available     -  -                     approved 
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 0/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+  sent -> @glow.with.ananya <ananya.glow@example.com>
+  sent -> @organic.living.meera <meera@organicliving.example.com>
+  sent -> @selfcare.sunday.isha <isha@sundayselfcare.example.com>
+  sent -> @the.selfcare.diaries <riya@selfcarediaries.example.com>
+  sent -> @makeup.by.simran <simran.mua@example.com>
+sent 5 emails
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 5}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Email Sent          1  -                     sent     
+organic.living.meer     97 Email Sent          1  -                     sent     
+selfcare.sunday.ish     97 Email Sent          1  -                     sent     
+the.selfcare.diarie     97 Email Sent          1  -                     sent     
+makeup.by.simran        78 Email Sent          1  -                     sent     
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 5/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+reply from @glow.with.ananya placed in mock inbox
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+reply from @the.selfcare.diaries placed in mock inbox
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+reply from @makeup.by.simran placed in mock inbox
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+time-travelled 5 days
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+  reply from @glow.with.ananya: pricing_enquiry -> Interested
+  reply from @the.selfcare.diaries: opt_out -> Not Interested
+  reply from @makeup.by.simran: collaboration_request -> Interested
+replies processed: 3
+  follow-up 1 -> @organic.living.meera
+  follow-up 1 -> @selfcare.sunday.isha
+followups: {'sent': 2, 'marked_due': 2, 'no_response': 0}
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 2, 'Not Interested': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       pending  
+organic.living.meer     97 Email Sent          2  -                     sent     
+selfcare.sunday.ish     97 Email Sent          2  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Interested          1  collaboration_request pending  
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 7/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+
+======================================================================
+@glow.with.ananya  <ananya.glow@example.com>  score=97  status=Interested
+Their reply (pricing_enquiry): Hi! Thanks for reaching out. What is your budget and rate for a reel?
+Suggested next action: Fill in the budget range and send the rate details; loop in the campaign manager.
+----------------------------------------------------------------------
+Hi Ananya,
+
+Thanks for your interest. For this campaign our budget for a creator of your size is [PLACEHOLDER: budget range], plus the free product kit and an affiliate code. Deliverables would be [PLACEHOLDER: e.g. 1 reel + 3 stories]. Does that work for you?
+
+Best,
+Danyal Ali
+GlowLeaf Organics
+  approved
+
+======================================================================
+@makeup.by.simran  <simran.mua@example.com>  score=78  status=Interested
+Their reply (collaboration_request): Sounds good, I'd love to hear more details about the brief.
+Suggested next action: Send the campaign brief and propose a call slot.
+----------------------------------------------------------------------
+Hi Simran,
+
+Great, I'll send over the campaign brief. Would [PLACEHOLDER: date/time] work for a 15-minute call to align on deliverables and timelines?
+
+Best,
+Danyal Ali
+GlowLeaf Organics
+  approved
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 2, 'Not Interested': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       approved 
+organic.living.meer     97 Email Sent          2  -                     sent     
+selfcare.sunday.ish     97 Email Sent          2  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Interested          1  collaboration_request approved 
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 7/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+  reply sent -> @glow.with.ananya
+  reply sent -> @makeup.by.simran
+sent 2 replies
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 2, 'Not Interested': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       sent     
+organic.living.meer     97 Email Sent          2  -                     sent     
+selfcare.sunday.ish     97 Email Sent          2  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Interested          1  collaboration_request sent     
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 9/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+time-travelled 7 days
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+replies processed: 0
+  follow-up 2 -> @organic.living.meera
+  follow-up 2 -> @selfcare.sunday.isha
+followups: {'sent': 2, 'marked_due': 2, 'no_response': 0}
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 2, 'Not Interested': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       sent     
+organic.living.meer     97 Email Sent          3  -                     sent     
+selfcare.sunday.ish     97 Email Sent          3  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Interested          1  collaboration_request sent     
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 11/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+@makeup.by.simran -> Collaboration Confirmed
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 1, 'Not Interested': 1, 'Collaboration Confirmed': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       sent     
+organic.living.meer     97 Email Sent          3  -                     sent     
+selfcare.sunday.ish     97 Email Sent          3  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Collaboration Confirmed    1  collaboration_request sent     
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 11/20
+[modes] Claude: MOCK (local) | Instagram: MOCK (local) | Gmail: MOCK (local) | Sheet: LOCAL CSV
+
+CRM summary: {'New Lead': 1, 'Email Available': 4, 'Email Sent': 2, 'Interested': 1, 'Not Interested': 1, 'Collaboration Confirmed': 1}
+username             score status          stage  reply                 approval 
+glow.with.ananya        97 Interested          1  pricing_enquiry       sent     
+organic.living.meer     97 Email Sent          3  -                     sent     
+selfcare.sunday.ish     97 Email Sent          3  -                     sent     
+the.selfcare.diarie     97 Not Interested      1  opt_out               sent     
+makeup.by.simran        78 Collaboration Confirmed    1  collaboration_request sent     
+dermdost.priya          56 Email Available     -  -                     -        
+skinlab.neha            56 New Lead            -  -                     -        
+fitwithkabir            34 Email Available     -  -                     -        
+travelwithzoya          34 Email Available     -  -                     -        
+techbyrohan             29 Email Available     -  -                     -        
+emails sent today: 11/20
+wrote samples/sample_crm_sheet.csv and samples/sample_emails.md
